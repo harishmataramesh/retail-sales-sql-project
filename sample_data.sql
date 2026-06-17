@@ -1,0 +1,243 @@
+INSERT INTO customers VALUES
+(1,'Harish','Chennai'),(2,'Ramya','Bangalore'),(3,'Karthik','Mumbai'),
+(4,'Anu','Hyderabad'),(5,'Vijay','Delhi'),(6,'Sofia','Pune'),
+(7,'Rahul','Chennai'),(8,'Deepa','Bangalore'),(9,'Arjun','Mumbai'),
+(10,'Meena','Hyderabad'),
+
+(11,'Kiran','Delhi'),(12,'Divya','Pune'),(13,'Ramesh','Chennai'),
+(14,'Lakshmi','Bangalore'),(15,'Manoj','Mumbai'),(16,'Neha','Hyderabad'),
+(17,'Suresh','Delhi'),(18,'Anitha','Pune'),(19,'Prakash','Chennai'),
+(20,'Kavya','Bangalore'),
+
+(21,'Naveen','Mumbai'),(22,'Pooja','Hyderabad'),(23,'Ajay','Delhi'),
+(24,'Swathi','Pune'),(25,'Bala','Chennai'),(26,'Keerthi','Bangalore'),
+(27,'Vinod','Mumbai'),(28,'Sanjay','Hyderabad'),(29,'Preeti','Delhi'),
+(30,'Gokul','Pune'),
+
+(31,'Ravi','Chennai'),(32,'Sneha','Bangalore'),(33,'Ashwin','Mumbai'),
+(34,'Nisha','Hyderabad'),(35,'Pradeep','Delhi'),(36,'Divakar','Pune'),
+(37,'Anand','Chennai'),(38,'Geetha','Bangalore'),(39,'Rohit','Mumbai'),
+(40,'Aishwarya','Hyderabad'),
+
+(41,'Kamal','Delhi'),(42,'Sathya','Pune'),(43,'Muthu','Chennai'),
+(44,'Saranya','Bangalore'),(45,'Dinesh','Mumbai'),(46,'Karthi','Hyderabad'),
+(47,'Varun','Delhi'),(48,'Bhavya','Pune'),(49,'Tejas','Chennai'),
+(50,'Ritika','Bangalore'),
+
+(51,'Hari','Mumbai'),(52,'Priya','Hyderabad'),(53,'Nikhil','Delhi'),
+(54,'Reshma','Pune'),(55,'Sathish','Chennai'),(56,'Keerthana','Bangalore'),
+(57,'Darshan','Mumbai'),(58,'Monika','Hyderabad'),(59,'Raj','Delhi'),
+(60,'Pavithra','Pune'),
+
+(61,'Surya','Chennai'),(62,'Divakar','Bangalore'),(63,'Amit','Mumbai'),
+(64,'Rashmi','Hyderabad'),(65,'Vikas','Delhi'),(66,'Sonia','Pune'),
+(67,'Girish','Chennai'),(68,'Kavitha','Bangalore'),(69,'Rahul','Mumbai'),
+(70,'Bindu','Hyderabad'),
+
+(71,'Mahesh','Delhi'),(72,'Renu','Pune'),(73,'Lokesh','Chennai'),
+(74,'Hema','Bangalore'),(75,'Raghu','Mumbai'),(76,'Nandini','Hyderabad'),
+(77,'Prasanna','Delhi'),(78,'Anu','Pune'),(79,'Sridhar','Chennai'),
+(80,'Megha','Bangalore'),
+
+(81,'Kishore','Mumbai'),(82,'Rekha','Hyderabad'),(83,'Venu','Delhi'),
+(84,'Shruti','Pune'),(85,'Ranjith','Chennai'),(86,'Amrita','Bangalore'),
+(87,'Ravi','Mumbai'),(88,'Sahana','Hyderabad'),(89,'Sunil','Delhi'),
+(90,'Kalyani','Pune'),
+
+(91,'Imran','Chennai'),(92,'Pallavi','Bangalore'),(93,'Rakesh','Mumbai'),
+(94,'Chitra','Hyderabad'),(95,'Kiran','Delhi'),(96,'Aparna','Pune'),
+(97,'Venkat','Chennai'),(98,'Swetha','Bangalore'),(99,'Ajith','Mumbai'),
+(100,'Latha','Hyderabad');
+
+INSERT INTO products VALUES
+(1,'Laptop','Electronics',50000),
+(2,'Smartphone','Electronics',20000),
+(3,'Tablet','Electronics',15000),
+(4,'Monitor','Electronics',12000),
+(5,'Printer','Electronics',8000),
+(6,'Camera','Electronics',30000),
+(7,'Smart TV','Electronics',45000),
+(8,'Speaker','Electronics',3000),
+(9,'Projector','Electronics',25000),
+(10,'Router','Electronics',2000),
+
+(11,'Headphones','Accessories',2000),
+(12,'Earbuds','Accessories',2500),
+(13,'Keyboard','Accessories',1000),
+(14,'Mouse','Accessories',800),
+(15,'Charging Cable','Accessories',500),
+(16,'Power Bank','Accessories',1500),
+(17,'Laptop Bag','Accessories',1200),
+(18,'USB Drive','Accessories',700),
+(19,'Memory Card','Accessories',900),
+(20,'Tripod','Accessories',1800),
+
+(21,'Office Chair','Furniture',7000),
+(22,'Study Table','Furniture',6000),
+(23,'Bookshelf','Furniture',5000),
+(24,'Sofa','Furniture',20000),
+(25,'Dining Table','Furniture',15000),
+(26,'Wardrobe','Furniture',18000),
+(27,'Bed','Furniture',25000),
+(28,'TV Stand','Furniture',4000),
+(29,'Cupboard','Furniture',12000),
+(30,'Drawer','Furniture',3000),
+
+(31,'T-shirt','Clothing',800),
+(32,'Shirt','Clothing',1200),
+(33,'Jeans','Clothing',2000),
+(34,'Jacket','Clothing',3000),
+(35,'Sweater','Clothing',2500),
+(36,'Dress','Clothing',2200),
+(37,'Skirt','Clothing',1800),
+(38,'Shorts','Clothing',1500),
+(39,'Hoodie','Clothing',2800),
+(40,'Blazer','Clothing',3500),
+
+(41,'Running Shoes','Footwear',4000),
+(42,'Casual Shoes','Footwear',3500),
+(43,'Formal Shoes','Footwear',4500),
+(44,'Sandals','Footwear',1500),
+(45,'Slippers','Footwear',800),
+(46,'Boots','Footwear',5000),
+(47,'Sneakers','Footwear',4200),
+(48,'Heels','Footwear',3000),
+(49,'Loafers','Footwear',3800),
+(50,'Sports Shoes','Footwear',4500),
+
+(51,'Refrigerator','Appliances',30000),
+(52,'Washing Machine','Appliances',25000),
+(53,'Microwave','Appliances',12000),
+(54,'Air Conditioner','Appliances',40000),
+(55,'Water Heater','Appliances',8000),
+(56,'Mixer Grinder','Appliances',5000),
+(57,'Toaster','Appliances',2000),
+(58,'Vacuum Cleaner','Appliances',7000),
+(59,'Dishwasher','Appliances',35000),
+(60,'Induction Stove','Appliances',3000),
+
+(61,'Notebook','Stationery',200),
+(62,'Pen','Stationery',50),
+(63,'Pencil','Stationery',20),
+(64,'Eraser','Stationery',10),
+(65,'Marker','Stationery',80),
+(66,'Highlighter','Stationery',100),
+(67,'Stapler','Stationery',150),
+(68,'File Folder','Stationery',120),
+(69,'Diary','Stationery',300),
+(70,'Calculator','Stationery',500),
+
+(71,'Face Wash','Beauty',300),
+(72,'Shampoo','Beauty',400),
+(73,'Conditioner','Beauty',350),
+(74,'Perfume','Beauty',2500),
+(75,'Lipstick','Beauty',900),
+(76,'Foundation','Beauty',1200),
+(77,'Face Cream','Beauty',700),
+(78,'Body Lotion','Beauty',600),
+(79,'Hair Oil','Beauty',500),
+(80,'Sunscreen','Beauty',800),
+
+(81,'Football','Sports',1500),
+(82,'Cricket Bat','Sports',4000),
+(83,'Cricket Ball','Sports',500),
+(84,'Tennis Racket','Sports',3000),
+(85,'Badminton Racket','Sports',1800),
+(86,'Yoga Mat','Sports',1000),
+(87,'Dumbbells','Sports',2500),
+(88,'Skipping Rope','Sports',300),
+(89,'Sports Bag','Sports',2000),
+(90,'Cycling Helmet','Sports',1200),
+
+(91,'Rice','Groceries',1000),
+(92,'Wheat Flour','Groceries',800),
+(93,'Sugar','Groceries',600),
+(94,'Salt','Groceries',200),
+(95,'Milk','Groceries',500),
+(96,'Eggs','Groceries',400),
+(97,'Oil','Groceries',1500),
+(98,'Tea','Groceries',700),
+(99,'Coffee','Groceries',900),
+(100,'Spices','Groceries',1200);
+
+INSERT INTO orders VALUES
+(1,1,'2024-01-01'),(2,2,'2024-01-02'),(3,3,'2024-01-03'),
+(4,4,'2024-01-04'),(5,5,'2024-01-05'),(6,6,'2024-01-06'),
+(7,7,'2024-01-07'),(8,8,'2024-01-08'),(9,9,'2024-01-09'),
+(10,10,'2024-01-10'),
+
+(11,11,'2024-02-01'),(12,12,'2024-02-02'),(13,13,'2024-02-03'),
+(14,14,'2024-02-04'),(15,15,'2024-02-05'),(16,16,'2024-02-06'),
+(17,17,'2024-02-07'),(18,18,'2024-02-08'),(19,19,'2024-02-09'),
+(20,20,'2024-02-10'),
+
+(21,21,'2024-03-01'),(22,22,'2024-03-02'),(23,23,'2024-03-03'),
+(24,24,'2024-03-04'),(25,25,'2024-03-05'),(26,26,'2024-03-06'),
+(27,27,'2024-03-07'),(28,28,'2024-03-08'),(29,29,'2024-03-09'),
+(30,30,'2024-03-10'),
+
+(31,31,'2024-04-01'),(32,32,'2024-04-02'),(33,33,'2024-04-03'),
+(34,34,'2024-04-04'),(35,35,'2024-04-05'),(36,36,'2024-04-06'),
+(37,37,'2024-04-07'),(38,38,'2024-04-08'),(39,39,'2024-04-09'),
+(40,40,'2024-04-10'),
+
+(41,41,'2024-05-01'),(42,42,'2024-05-02'),(43,43,'2024-05-03'),
+(44,44,'2024-05-04'),(45,45,'2024-05-05'),(46,46,'2024-05-06'),
+(47,47,'2024-05-07'),(48,48,'2024-05-08'),(49,49,'2024-05-09'),
+(50,50,'2024-05-10'),
+
+(51,51,'2024-06-01'),(52,52,'2024-06-02'),(53,53,'2024-06-03'),
+(54,54,'2024-06-04'),(55,55,'2024-06-05'),(56,56,'2024-06-06'),
+(57,57,'2024-06-07'),(58,58,'2024-06-08'),(59,59,'2024-06-09'),
+(60,60,'2024-06-10'),
+
+(61,61,'2024-07-01'),(62,62,'2024-07-02'),(63,63,'2024-07-03'),
+(64,64,'2024-07-04'),(65,65,'2024-07-05'),(66,66,'2024-07-06'),
+(67,67,'2024-07-07'),(68,68,'2024-07-08'),(69,69,'2024-07-09'),
+(70,70,'2024-07-10'),
+
+(71,71,'2024-08-01'),(72,72,'2024-08-02'),(73,73,'2024-08-03'),
+(74,74,'2024-08-04'),(75,75,'2024-08-05'),(76,76,'2024-08-06'),
+(77,77,'2024-08-07'),(78,78,'2024-08-08'),(79,79,'2024-08-09'),
+(80,80,'2024-08-10'),
+
+(81,81,'2024-09-01'),(82,82,'2024-09-02'),(83,83,'2024-09-03'),
+(84,84,'2024-09-04'),(85,85,'2024-09-05'),(86,86,'2024-09-06'),
+(87,87,'2024-09-07'),(88,88,'2024-09-08'),(89,89,'2024-09-09'),
+(90,90,'2024-09-10'),
+
+(91,91,'2024-10-01'),(92,92,'2024-10-02'),(93,93,'2024-10-03'),
+(94,94,'2024-10-04'),(95,95,'2024-10-05'),(96,96,'2024-10-06'),
+(97,97,'2024-10-07'),(98,98,'2024-10-08'),(99,99,'2024-10-09'),
+(100,100,'2024-10-10');
+
+INSERT INTO order_items VALUES
+(1,1,1,1),(2,2,2,2),(3,3,3,3),(4,4,4,1),(5,5,5,2),
+(6,6,6,1),(7,7,7,3),(8,8,8,2),(9,9,9,1),(10,10,10,2),
+
+(11,11,1,2),(12,12,2,1),(13,13,3,2),(14,14,4,3),(15,15,5,1),
+(16,16,6,2),(17,17,7,1),(18,18,8,3),(19,19,9,2),(20,20,10,1),
+
+(21,21,1,1),(22,22,2,2),(23,23,3,3),(24,24,4,1),(25,25,5,2),
+(26,26,6,1),(27,27,7,3),(28,28,8,2),(29,29,9,1),(30,30,10,2),
+
+(31,31,1,2),(32,32,2,1),(33,33,3,2),(34,34,4,3),(35,35,5,1),
+(36,36,6,2),(37,37,7,1),(38,38,8,3),(39,39,9,2),(40,40,10,1),
+
+(41,41,1,1),(42,42,2,2),(43,43,3,3),(44,44,4,1),(45,45,5,2),
+(46,46,6,1),(47,47,7,3),(48,48,8,2),(49,49,9,1),(50,50,10,2),
+
+(51,51,1,2),(52,52,2,1),(53,53,3,2),(54,54,4,3),(55,55,5,1),
+(56,56,6,2),(57,57,7,1),(58,58,8,3),(59,59,9,2),(60,60,10,1),
+
+(61,61,1,1),(62,62,2,2),(63,63,3,3),(64,64,4,1),(65,65,5,2),
+(66,66,6,1),(67,67,7,3),(68,68,8,2),(69,69,9,1),(70,70,10,2),
+
+(71,71,1,2),(72,72,2,1),(73,73,3,2),(74,74,4,3),(75,75,5,1),
+(76,76,6,2),(77,77,7,1),(78,78,8,3),(79,79,9,2),(80,80,10,1),
+
+(81,81,1,1),(82,82,2,2),(83,83,3,3),(84,84,4,1),(85,85,5,2),
+(86,86,6,1),(87,87,7,3),(88,88,8,2),(89,89,9,1),(90,90,10,2),
+
+(91,91,1,2),(92,92,2,1),(93,93,3,2),(94,94,4,3),(95,95,5,1),
+(96,96,6,2),(97,97,7,1),(98,98,8,3),(99,99,9,2),(100,100,10,1);
